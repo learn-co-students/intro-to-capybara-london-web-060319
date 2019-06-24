@@ -1,4 +1,4 @@
 # Write your code here!
-require 'sintara'
+require 'sinatra'
 require_relative './app'
 run Application
